@@ -1,10 +1,26 @@
-Have you ever wanted to get an amazing github streak but not had the persistance or self respect to get there.
+# GitHub Auto-Committer
 
-Here is the easy solution for linux:
+Have you ever wanted to get an amazing GitHub streak but not had the persistence or self-respect to get there? Here is the easy solution for Linux users:
 
-create a screen:
-screen -S github-auto-commiter
+## Getting Started
 
-python3 github-auto-commiter
+Follow these simple steps to set up the GitHub auto-committer:
 
-This requires you to be logged into the git client and have stored creds.
+### Step 1: Create a Screen Session
+
+Open your terminal and create a new screen session named `github-auto-committer`:
+
+```bash
+screen -S github-auto-committe```
+
+Step 2: Run the Auto-Committer
+
+Within the screen session, execute the Python script:
+```bash
+python3 github-auto-committer
+```
+Prerequisites
+
+This script requires you to be logged into the Git client and have stored credentials.
+
+Note: Using this tool should comply with GitHub's usage policies. It's intended for educational purposes only.
