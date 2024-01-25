@@ -1,0 +1,10 @@
+Have you ever wanted to get an amazing github streak but not had the persistance or self respect to get there.
+
+Here is the easy solution for linux:
+
+create a screen:
+screen -S github-auto-commiter
+
+python3 github-auto-commiter
+
+This requires you to be logged into the git client and have stored creds.
