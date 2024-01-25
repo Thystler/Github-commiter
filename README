@@ -10,17 +10,16 @@ Follow these simple steps to set up the GitHub auto-committer:
 
 Open your terminal and create a new screen session named `github-auto-committer`:
 
-```bash
-screen -S github-auto-committe```
+Bash: screen -S github-auto-committer
 
-Step 2: Run the Auto-Committer
+### Step 2: Run the Auto-Committer
 
 Within the screen session, execute the Python script:
-```bash
-python3 github-auto-committer
-```
-Prerequisites
+
+Bash: python3 github-auto-committer
+
+### Prerequisites
 
 This script requires you to be logged into the Git client and have stored credentials.
 
-Note: Using this tool should comply with GitHub's usage policies. It's intended for educational purposes only.
+**Note**: Using this tool should comply with GitHub's usage policies. It's intended for educational purposes only.
